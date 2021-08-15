@@ -1,5 +1,7 @@
 ## dockerize_database 1.0 
 
+![description](./description.png)
+
 ### Overview
 - 로컬 환경에서 중복되는 데이터베이스를 관리하기 위하여 사용.
 - Spring Boot 기준으로 개발됨.
@@ -33,3 +35,4 @@ Intellij
 ### Enhancement Points
 1. docker run 커맨드가 현재 postgresql로 한정되어있음 >> database 도 설정가능하게 변경
 2. ENV_VARIABLE 도 dynamic하게 입력 할 수있도록 변경
+
